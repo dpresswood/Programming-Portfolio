@@ -10,3 +10,5 @@ Integrated Development Environment (IDE) such as Eclipse or NetBeans, which
 connects to a MySQL database.  The team resource list consisted of a personal computers 
 for programming (Apple/Linux/Windows OS), Internet access (LAN/Wi-Fi), IDE 
 (Eclipse/NetBeans), database software (MySQL) and java database connection (Derby). 
+# JUnit Testing
+This was a homework assignment in a Software Testing Class that assessed my ability to design, code and prepare JUNIT tests for a simple login application. Java code was used for the application.
