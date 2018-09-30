@@ -34,4 +34,15 @@ Test the use of drop-down methods within the application.  Provided examples of 
 
 7.	Test defenses against application misuse
 Tested and provide ways to provide application-layer defensive mechanisms to protect the application.
+# Testing Framework and Basic Security Controls 
+This was a homework assignment that demonstrated my knowledge of creating a testing framework and using that framework to conduct some basic server and web application security controls.
+
+Part 1. I described the testing framework and what each phase encompasses. I used examples to demonstrate my understanding of each testing framework.
+
+Part 2. Used a Linux Virtual Machine to test Security Controls
+1. To Fingerprint the Web Server, I used netcat tool to discover the web server software vendor and release. Discussed ways to mitigate vulnerabilities with Apache version 2.0.
+
+2. Reviewed webpage comments and metadata for information leakage. I manually reviewed the sample HTML application source code in the Apache Web Server directories.
+
+3. Tested HTTP Methods available on the virtual machine.
 
