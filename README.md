@@ -45,4 +45,7 @@ Part 2. Used a Linux Virtual Machine to test Security Controls
 2. Reviewed webpage comments and metadata for information leakage. I manually reviewed the sample HTML application source code in the Apache Web Server directories.
 
 3. Tested HTTP Methods available on the virtual machine.
+#Student GPA Application
+This programming project involves writing a program to manage a student database. A combo box  allows the user to select one of  four database actions. The database was implemented as a HashMap, with the ID field as the key and a student record consisting of a name and major as the value. An operation is performed when the user clicks the Process Request button. If the user attempts to insert a key that is already in the database an error message is displayed using a JOptionPane message dialog box. If the user attempts to delete, find or update a record that is not in the database, a message is  displayed. After each successful operation is completed a JOptionPane window displays confirming the success. In the case of a successful Find request, a window should pop up containing the student's ID, name, major and current GPA.
 
+Test Cases was performed to show the functionality of each requirement.
