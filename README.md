@@ -1,7 +1,7 @@
-# Programming-Portfolio
-Portfolio of programming applications and project reports that I have worked on while attending University of Maryland University College. Most of the projects were done individually; however Awesome Movie Tickets project was accomplished by myself and 2 other students as our Final Project.
+# Programming/Web Development-Portfolio
+Portfolio of programming/web devlopment applications and project reports that I have worked on while attending University of Maryland University College. Most of the projects were done individually; however Awesome Movie Tickets project was accomplished by myself and 2 other students as our Final Project.
 # About Me
-Eager Junior Software Engineer enthusiastic about developing practical and time-saving software solutions.  Committed to working with client and project guidelines to deliver cost effective timely software applications.  Experience with software/database applications applying Software Development Lifecycle (SDLC) principles.  As a United States Air Force veteran, developed the ability to communicate with all branches of the service with diplomacy and tact.  
+Eager Software/Web Engineer enthusiastic about developing practical and time-saving software solutions.  Committed to working with client and project guidelines to deliver cost effective timely software applications.  Experience with software/database applications applying Software Development Lifecycle (SDLC) principles.  As a United States Air Force veteran, developed the ability to communicate with all branches of the service with diplomacy and tact.  
 # Awesome Movie Tickets
 Team Awesome created a prototype of a stand-alone movie ticket kiosk application 
 with a back-end Java foundation, SQL database and a front-end Java Graphical User 
@@ -47,3 +47,5 @@ Part 2. Used a Linux Virtual Machine to test Security Controls
 3. Tested HTTP Methods available on the virtual machine.
 #Student GPA Application
 This programming project involves writing a program to manage a student database. A combo box  allows the user to select one of  four database actions. The database was implemented as a HashMap, with the ID field as the key and a student record consisting of a name and major as the value. An operation is performed when the user clicks the Process Request button. If the user attempts to insert a key that is already in the database an error message is displayed using a JOptionPane message dialog box. If the user attempts to delete, find or update a record that is not in the database, a message is  displayed. After each successful operation is completed a JOptionPane window displays confirming the success. In the case of a successful Find request, a window should pop up containing the student's ID, name, major and current GPA. Performed Test Case Scenarios to show the functionality of each requirement.
+# Web Page Foundations
+I created and deployed a simple web page launched on Oracle Virtual-box with Ubuntu operating system and a text editor. Created Candles Unlimited Web page comprised of formatted text, images, lists tables,hyperlinks and forms. 
