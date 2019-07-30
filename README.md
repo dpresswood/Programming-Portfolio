@@ -54,7 +54,7 @@ This programming project involves writing a program to manage a student database
 # Web Page Foundations
 I created and deployed a simple web page launched on Oracle Virtual-box with Ubuntu operating system and a text editor. Created Candles Unlimited Web page using HTML code comprised of formatted text, images, lists tables,hyperlinks and forms.  Look at the Lab3.Doc file to get a brief overview of the website and the fictitious products sold.
 
-#PHP: Arrays, Functions and Form processing 
+# PHP: Arrays, Functions and Form processing 
 Project goal was to use PHP to create a simple PHP application. The project requirements allowed me to
 1. Create and test PHP scripts that include Arrays
 2. Create and test PHP scripts that include Functions
