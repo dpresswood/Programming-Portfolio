@@ -1,7 +1,7 @@
 # Programming/Web Development-Portfolio
 Portfolio of programming/web development applications and project reports that I have worked on while attending University of Maryland University College. Most of the projects were done individually; however Awesome Movie Tickets project was accomplished by myself and 2 other students as our Final Project.
 # About Me
-Eager Developer enthusiastic about developing practical and time-saving software solutions. Committed to working with client and project guidelines to deliver cost effective timely web applications. Experienced with all stages of the development cycle for software applications.  Broadly and deeply knowledgeable in a wide variety of computer languages as well as principles and techniques of website construction and maintenance.  Strong experience working with clients and providing excellent service that is demonstrated in my professionalism and high client satisfaction. As a United States Air Force veteran, developed the ability to communicate with all branches of the service with diplomacy and tact.   
+Eager Developer enthusiastic about developing practical and time-saving software solutions. Committed to working with client and project guidelines to deliver cost effective timely web applications. Experienced with all stages of the development cycle for software applications.  Broadly and deeply knowledgeable in a wide variety of computer languages as well as principles and techniques of website construction and maintenance.  
 # Awesome Movie Tickets
 Team Awesome created a prototype of a stand-alone movie ticket kiosk application 
 with a back-end Java foundation, SQL database and a front-end Java Graphical User 
