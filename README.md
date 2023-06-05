@@ -43,8 +43,8 @@ For this project, I created and deployed a responsive web page using the LAMP st
 
 # PHP: Arrays, Functions and Form Processing 
 The objective was to develop a basic PHP application by leveraging PHP's capabilities. The project requirements encompassed the following tasks:
-•	Creating and testing PHP scripts that incorporate arrays.
-•	Creating and testing PHP scripts that utilize functions.
-•	Creating, testing, and implementing PHP scripts for processing HTML forms.
+1. Creating and testing PHP scripts that incorporate arrays.
+2. Creating and testing PHP scripts that utilize functions.
+3.	Creating, testing, and implementing PHP scripts for processing HTML forms.
 This application allows users to log in to a website, select multiple products for purchase, and subsequently place an order for the chosen items. The requirements file will provide additional details and specifications necessary for the successful completion of the project.
 
