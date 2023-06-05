@@ -1,20 +1,16 @@
 # Programming/Web Development-Portfolio
-Portfolio of programming/web development applications and project reports that I have worked on while attending University of Maryland University College. Most of the projects were done individually; however Awesome Movie Tickets project was accomplished by myself and 2 other students as our Final Project.
+While attending programming and web development projects that significantly contributed to my portfolio. While most of these projects were completed individually, one notable collaboration was the "Awesome Movie Tickets" project, which served as our Final Project and involved a team of three students, including myself. Here is a summary of some key applications and project reports I worked on:
 # About Me
 Eager Developer enthusiastic about developing practical and time-saving software solutions. Committed to working with client and project guidelines to deliver cost effective timely web applications. Experienced with all stages of the development cycle for software applications.  Broadly and deeply knowledgeable in a wide variety of computer languages as well as principles and techniques of website construction and maintenance.  
 # Awesome Movie Tickets
-Team Awesome created a prototype of a stand-alone movie ticket kiosk application 
-with a back-end Java foundation, SQL database and a front-end Java Graphical User 
-Interface (GUI) and JPEG images. The kiosk prototype can be accessed by using an 
-Integrated Development Environment (IDE) such as Eclipse or NetBeans, which 
-connects to a MySQL database. The team resource list consisted of a personal computers 
-for programming (Apple/Linux/Windows OS), Internet access (LAN/Wi-Fi), IDE 
-(Eclipse/NetBeans), database software (MySQL) and java database connection (Derby). 
+During our collaboration on the "Awesome Movie Tickets" project, Team Awesome developed a standalone movie ticket kiosk application prototype. The prototype was built with a Java-based backend, utilized a SQL database, and featured a Java Graphical User Interface (GUI) along with JPEG images.
+To access the kiosk prototype, we employed an Integrated Development Environment (IDE) such as Eclipse or NetBeans, which allowed seamless connectivity to a MySQL database. Our team made use of various resources including personal computers running Apple, Linux, or Windows operating systems, LAN or Wi-Fi for internet access, IDEs like Eclipse or NetBeans, MySQL as the database software, and Java Database Connection (JDBC) for database connectivity.
+ 
 # JUnit Testing
-This was a homework assignment in a Software Testing Class that assessed my ability to design, code and prepare JUnit tests for a simple login application. Java code was used for the application. I designed and implement a comprehensive set of JUnit tests that included testing of the login form with successful/unsuccessful logging attempts and the logging functionality to the Log.txt file.
+As part of a Software Testing class assignment, I designed, coded, and prepared JUnit tests for a simple login application written in Java. I created a comprehensive set of JUnit tests that covered scenarios such as successful and unsuccessful login attempts and logging functionality to the Log.txt file.
 
 # Input Validation and Business Logic Security Controls
-This was a homework assignment that demonstrated my knowledge of testing security controls aligned with input validation and business logic.  Using a combination of automated (OWASP ZAP) and manual methods to test UMUC Tutor application.
+This project showcased my knowledge of testing security controls related to input validation and business logic. I utilized a combination of automated tools like OWASP ZAP and manual methods to test the college Tutor application. I performed tests for reflected cross-site scripting, stored cross-site scripting, SQL injection, code injection, business logic data validation, integrity checks, defenses against application misuse, and more. I also discussed vulnerabilities and provided recommendations for mitigation.
 1.	Testing for Reflected Cross site scripting
 A  JavaScript Alert was coded into the deleteSession.php file to determine if Reflected Cross Site Scripting was present.
 
@@ -37,27 +33,18 @@ Test the use of drop-down methods within the application.  Provided examples of 
 Tested and provide ways to provide application-layer defensive mechanisms to protect the application.
 
 # Testing Framework and Basic Security Controls 
-This was a homework assignment that demonstrated my knowledge of creating a testing framework and using that framework to conduct some basic server and web application security controls.
-
-Part 1. I described the testing framework and what each phase encompasses. I used examples to demonstrate my understanding of each testing framework.
-
-Part 2. Used a Linux Virtual Machine to test Security Controls
-1. To Fingerprint the Web Server, I used netcat tool to discover the web server software vendor and release. Discussed ways to mitigate vulnerabilities with Apache version 2.0.
-
-2. Reviewed webpage comments and metadata for information leakage. I manually reviewed the sample HTML application source code in the Apache Web Server directories.
-
-3. Tested HTTP Methods available on the virtual machine.
+In this assignment, I demonstrated my understanding of creating a testing framework and implementing basic server and web application security controls. I described the testing framework phases and provided examples to illustrate each phase. Additionally, I used a Linux Virtual Machine to test security controls such as fingerprinting the web server, reviewing webpage comments and metadata for information leakage, and testing available HTTP methods.
 
 # Student GPA Application
-This programming project involves writing a program to manage a student database. A combo box  allows the user to select one of four database actions. The database was implemented as a HashMap, with the ID field as the key and a student record consisting of a name and major as the value. An operation is performed when the user clicks the Process Request button. If the user attempts to insert a key that is already in the database an error message is displayed using a JOptionPane message dialog box. If the user attempts to delete, find or update a record that is not in the database, a message is  displayed. After each successful operation is completed a JOptionPane window displays confirming the success. In the case of a successful Find request, a window should pop up containing the student's ID, name, major and current GPA. Performed Test Case Scenarios to show the functionality of each requirement.
+In this programming project I created a program to manage a student database. The database was designed as a HashMap, which allowed me to perform various actions such as inserting, deleting, finding, and updating records. To ensure functionality and requirements were met, I incorporated error handling and confirmation messages and performed test case scenarios.
 
 # Web Page Foundations
-I created and deployed a simple web page launched on Oracle Virtual-box with Ubuntu operating system and a text editor. Created Candles Unlimited Web page using HTML code comprised of formatted text, images, lists tables,hyperlinks and forms.  Look at the Lab3.Doc file to get a brief overview of the website and the fictitious products sold.
+For this project, I created and deployed a responsive web page using the LAMP stack (Linux, Apache, MySQL, and PHP) on an Oracle VirtualBox with Ubuntu. I utilized HTML, CSS, and PHP to construct the Candles Unlimited web page, incorporating formatted text, images, lists, tables, hyperlinks, and forms. The page was designed to be responsive and adapt to different devices. Database management, file uploading, and DNS record configuration were also part of the project.
 
-# PHP: Arrays, Functions and Form processing 
-Project goal was to use PHP to create a simple PHP application. The project requirements allowed me to
-1. Create and test PHP scripts that include Arrays
-2. Create and test PHP scripts that include Functions
-3. Create, and test PHP scripts to process HTML Forms
-4. Compare and contrast session creating mechanisms in PHP 
-Look at the Lab5.Doc file for an outline of e-Commerce application using PHP and HTML that allows a user to login to a website, select several products for purchase and then place an order for those items selected. 
+# PHP: Arrays, Functions and Form Processing 
+The objective was to develop a basic PHP application by leveraging PHP's capabilities. The project requirements encompassed the following tasks:
+•	Creating and testing PHP scripts that incorporate arrays.
+•	Creating and testing PHP scripts that utilize functions.
+•	Creating, testing, and implementing PHP scripts for processing HTML forms.
+This application allows users to log in to a website, select multiple products for purchase, and subsequently place an order for the chosen items. The requirements file will provide additional details and specifications necessary for the successful completion of the project.
+
