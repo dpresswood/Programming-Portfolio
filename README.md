@@ -1,5 +1,5 @@
 # Programming/Web Development-Portfolio
-While attending programming and web development projects that significantly contributed to my portfolio. While most of these projects were completed individually, one notable collaboration was the "Awesome Movie Tickets" project, which served as our Final Project and involved a team of three students, including myself. Here is a summary of some key applications and project reports I worked on:
+During my time at the University of Maryland University College, I completed multiple programming and web development projects. While most of these projects were completed individually, one notable collaboration was the "Awesome Movie Tickets" project, which served as our Final Project and involved a team of three students, including myself. Here is a summary of some key applications and project reports I worked on:
 # About Me
 Eager Developer enthusiastic about developing practical and time-saving software solutions. Committed to working with client and project guidelines to deliver cost effective timely web applications. Experienced with all stages of the development cycle for software applications.  Broadly and deeply knowledgeable in a wide variety of computer languages as well as principles and techniques of website construction and maintenance.  
 # Awesome Movie Tickets
